@@ -102,3 +102,6 @@ ENV/
 
 # GApps son
 client_secret.json
+
+#dirty MAC system files
+.DS_Store
