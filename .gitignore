@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# GApps son
+client_secret.json
